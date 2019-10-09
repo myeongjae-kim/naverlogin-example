@@ -1,0 +1,12 @@
+*~
+*.swp
+tmp/
+npm-debug.log
+.DS_Store
+
+.vscode/
+node_modules/
+coverage/
+bundle.zip
+.node_env
+/build
