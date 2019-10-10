@@ -30,5 +30,5 @@ app.get('/callback', (req: Request, res: Response) => {
 });
 
 app.listen(8080, () => {
-  console.log('http://127.0.0.1:8080/naverlogin app listening on port 8080!');
+  console.log('http://localhost:8080/naverlogin app listening on port 8080!');
 });
